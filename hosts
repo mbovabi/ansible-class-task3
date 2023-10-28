@@ -1,0 +1,6 @@
+[centos]
+centos1  ansible_host=164.92.72.211
+centos2  ansible_host=164.90.148.32
+centos3  ansible_host=164.92.68.203
+centos4  ansible_host=164.90.153.95
+centos5  ansible_host=164.90.149.110
